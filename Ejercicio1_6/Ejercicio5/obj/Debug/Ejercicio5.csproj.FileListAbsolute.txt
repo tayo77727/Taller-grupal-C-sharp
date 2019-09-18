@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\obj\Debug\Ejercicio5.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Documentos\SharpDevelop Projects\Ejercicio1_6\Ejercicio5\obj\Debug\Ejercicio5.pdb
